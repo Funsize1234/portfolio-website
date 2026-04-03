@@ -69,7 +69,7 @@ function App() {
         <p className="text-base leading-relaxed max-w-md mx-auto text-neutral-500">
           When I'm not programming, I love to hangout with friends,
           build computers, buy things on FB Marketplace, cook, 
-          try new food spots, explore the outdoors, and listen to music!
+          try new food spots, explore the outdoors, and listen to music.
         </p>
       </section>
 
@@ -87,7 +87,7 @@ function App() {
               </div>
               <p className="text-sm text-neutral-500 mb-2">SJSU Undergraduate Research Opportunity Program</p>
               <p className="text-sm text-neutral-500 leading-relaxed">
-                Brief description of what you did, technologies used, and impact made.
+                Creating a messaging tool for a distributed system giving internet utilities to disconnected devices
               </p>
             </div>
           </li>
@@ -101,7 +101,7 @@ function App() {
               </div>
               <p className="text-sm text-neutral-500 mb-2">SJSU Software & Computer Engineering Society</p>
               <p className="text-sm text-neutral-500 leading-relaxed">
-                Brief description of what you did, technologies used, and impact made.
+                Created full-stack web features for a club website accessed by 300+ members and 20+ officers.
               </p>
             </div>
           </li>
